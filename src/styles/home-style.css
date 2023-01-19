@@ -1,0 +1,66 @@
+/* home body */
+
+.home-body {
+  background-color: #33425b;
+  text-align: center;
+}
+
+/* intro section */
+
+.intro {
+  padding: 12rem 5rem 0;
+  margin-bottom: 12rem;
+}
+
+.intro-left h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  text-align: left;
+  color: aliceblue;
+}
+
+.intro-left h2 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-align: left;
+  color: aliceblue;
+}
+
+.intro-right p {
+  font-size: 1.5rem;
+  font-weight: 300;
+  text-align: justify;
+  color: aliceblue;
+}
+
+/* second section */
+
+.second-container {
+  margin-bottom: 12rem;
+}
+
+.second-container img {
+  width: 90%;
+}
+
+/* third section */
+
+.third-section {
+  padding-bottom: 12rem;
+}
+.about {
+  margin: 0 5rem;
+}
+.about h1 {
+  font-size: 3.5rem;
+  font-weight: 600;
+  text-align: left;
+  color: aliceblue;
+}
+
+.about p {
+  font-size: 1.3rem;
+  text-align: justify;
+  color: aliceblue;
+  /* line-height: 1.5rem; */
+}
